@@ -8,5 +8,5 @@ Esse programa utiliza a base de dados do Atlas Brasileiro de Energia Solar (2017
 LABREN / CCST / INPE (Instituto Nacional de Pesquisas Espaciais).
 
 Para desenvolver o projeto foi utilizado o estudo: 
-"CALCULATION OF MONTHLY AVERAGE INSOLATION ON TILTED SURFACES" - S. A. Klein (1976)
+"CALCULATION OF MONTHLY AVERAGE INSOLATION ON TILTED SURFACES" - S. A. Klein (1976).
 Ele se encontra em anexo.
